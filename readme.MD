@@ -1,3 +1,5 @@
+![API Demo](/src/public/api.png)
+
 # Student API - Express.js and Mongoose , MongoDB
 
 ## Overview
