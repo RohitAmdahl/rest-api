@@ -1,6 +1,3 @@
-
-
-
 # Student API - Express.js and Mongoose , MongoDB
 
 ## Overview
@@ -36,7 +33,3 @@ npm install
 ### Contributing
 
 - Feel free to contribute by submitting issues or pull requests.
-
-### License
-
-- This project is licensed under the MIT License.
